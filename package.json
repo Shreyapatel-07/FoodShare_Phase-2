@@ -1,0 +1,13 @@
+
+{
+  "name": "foodshare-phase2",
+  "version": "1.0.0",
+  "description": "FoodShare food donation management website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
